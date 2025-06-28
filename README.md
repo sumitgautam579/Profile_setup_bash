@@ -6,7 +6,7 @@ I'm a passionate DevOps Engineer from India with over 3 years of experience spec
 I work with DevOps, Cloud, Microservices, Containers, and everything in between.
 
 ### 🖥️ Programming Language Stack
-<img src="assets/bash.svg" alt="Bash" width="40"/> 
+![BASH](assets/bash.svg "Bash") 
 
 ### 🛠️ OS Stack
 <img src="assets/linux.svg" alt="Linux" width="40"/> <img src="assets/ubuntu.svg" alt="Ubuntu" width="40"/>
