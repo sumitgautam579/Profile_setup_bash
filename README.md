@@ -2,15 +2,12 @@
 
 I'm a passionate DevOps Engineer from India with over 3 years of experience specializing in cloud infrastructure, CI/CD automation, and container orchestration. Available for freelance projects and cloud-native collaborations.
 
-## 🚀 Schedule a 1-on-1 Call:
-Feel free to [book a call](mailto:sumitgautam579@gmail.com) for consulting or project discussions!
-
 ## 💻 Languages & Tools
 I work with DevOps, Cloud, Microservices, Containers, and everything in between.
 
 ### 🖥️ Programming Language Stack
-<img src="assets/bash.svg" alt="Bash" width="40"/>
-<img src="assets/python.svg" alt="Python" width="40"/>
+<img src="assets/bash.svg" alt="Bash" width="40"/>; <img src="assets/python.svg" alt="Python" width="40"/>
+
 <img src="assets/groovy.svg" alt="Groovy" width="40"/>
 <img src="assets/java.svg" alt="Java" width="40"/>
 <img src="assets/go.svg" alt="Go" width="40"/>
