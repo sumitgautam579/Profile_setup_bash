@@ -30,7 +30,7 @@ I work with DevOps, Cloud, Microservices, Containers, and everything in between.
 <img src="assets/couchbase.svg" alt="Couchbase" width="40"/>
 
 ### 🔧 DevOps & CI/CD
-<img src="assets/aws.svg" alt="AWS" width="40"/>
+<img src="assets/Amazon_Web_Services-Logo.wine.svg" alt="AWS" width="40"/>
 <img src="assets/gcp.svg" alt="GCP" width="40"/>
 <img src="assets/jenkins.svg" alt="Jenkins" width="40"/>
 <img src="assets/ansible.svg" alt="Ansible" width="40"/>
