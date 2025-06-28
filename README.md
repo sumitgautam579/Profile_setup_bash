@@ -16,7 +16,7 @@ I work with DevOps, Cloud, Microservices, Containers, and everything in between.
 
 ### 🔧 DevOps & CI/CD
 
-<img src="assets/aws-brand-color.svg" alt="AWS" title='AWS' width="40"/> <img src="assets/jenkins.svg" alt="Jenkins" title='JENKINS' width="40"/> <img src="assets/ansible.svg" alt="Ansible" title='Ansible' width="40"/>  <img src="assets/docker.svg" alt="Docker" title='Docker' width="40"/> <img src="assets/kubernetes.svg" alt="Kubernetes" title='kubernetes' width="40"/> <img src="assets/helm.svg" alt="Helm" title='Helm' width="40"/> <img src="assets/prometheus.svg" alt="Prometheus" title='Prometheus' width="40"/> <img src="assets/grafana.svg" alt="Grafana" title='Grafana' width="40"/> <img src="assets/nagios.svg" alt="Nagios" title='Nagios' width="40"/> <img src="assets/sonarqube.svg" alt="SonarQube" title='SonarQube' width="40"/>
+<img src="assets/aws.svg" alt="AWS" title='AWS' width="80"/> <img src="assets/jenkins.svg" alt="Jenkins" title='JENKINS' width="40"/> <img src="assets/ansible.svg" alt="Ansible" title='Ansible' width="40"/>  <img src="assets/docker.svg" alt="Docker" title='Docker' width="40"/> <img src="assets/kubernetes.svg" alt="Kubernetes" title='kubernetes' width="40"/> <img src="assets/helm.svg" alt="Helm" title='Helm' width="40"/> <img src="assets/prometheus.svg" alt="Prometheus" title='Prometheus' width="40"/> <img src="assets/grafana.svg" alt="Grafana" title='Grafana' width="40"/> <img src="assets/nagios.svg" alt="Nagios" title='Nagios' width="80"/> <img src="assets/sonarqube.svg" alt="SonarQube" title='SonarQube' width="40"/>
 
 
 ### 📋 Project Management
