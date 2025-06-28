@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sumit Gautam  
 
-I'm a passionate DevOps Engineer AWS certified from India with over 3 years of experience specializing in cloud infrastructure, CI/CD automation, and container orchestration. Available for freelance projects and cloud-native collaborations.
+I'm a passionate DevOps Engineer AWS certified from India with over 3 years of experience specializing in cloud infrastructure, CI/CD automation, and container orchestration. Available for collaboration and contributions to cloud-native projects.
 
 ## 💻 Languages & Tools
 I work with DevOps, Cloud, Microservices, Containers, and everything in between.
@@ -12,7 +12,7 @@ I work with DevOps, Cloud, Microservices, Containers, and everything in between.
 <img src="assets/linux.svg" alt="Linux"  title="LINUX" width="40"/> <img src="assets/ubuntu.svg" alt="Ubuntu"  title="Ubuntu" width="40"/>
 
 ### 📚 Database & Messaging
-<img src="assets/mysql.svg" alt="MySQL"  title='MySQL' width="40"/> <img src="assets/oracle.svg" alt="OracleDB" title='OracleDB' width="40"/> <img src="assets/kafka.svg" alt="Kafka" title='kafka' width="40"/> <img src="assets/zookeeper.svg" alt="Zookeeper" title='zookeeper' width="40"/>
+<img src="assets/mysql.svg" alt="MySQL"  title='MySQL' width="50"/> <img src="assets/oracle.svg" alt="OracleDB" title='OracleDB' width="50"/> <img src="assets/kafka.svg" alt="Kafka" title='kafka' width="80"/> <img src="assets/apache-zookeeper.svg" alt="Zookeeper" title='zookeeper' width="100"/>
 
 ### 🔧 DevOps & CI/CD
 
