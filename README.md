@@ -1,15 +1,12 @@
 # 👋 Hi, I'm Sumit Gautam a.k.a DevOpsPro
 
-I'm a passionate DevOps Engineer from India with over 3 years of experience specializing in cloud infrastructure, CI/CD automation, and container orchestration. Open for freelance projects and cloud-native collaborations.
-
-## 🚀 Schedule a 1-on-1 Call:
-Feel free to [book a call](mailto:sumitgautam579@gmail.com) for consulting or freelance project discussions!
+I'm a passionate DevOps Engineer from India with over 3 years of experience specializing in cloud infrastructure, CI/CD automation, and container orchestration. Available for collaboration and contributions to cloud-native projects.
 
 ## 💻 Languages and Tools:
 I work with DevOps, Cloud Infrastructure, Microservices, Containers, and everything related.
 
 ### 🖥️ Programming Language Stack
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash]([https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white](https://camo.githubusercontent.com/b12f5974f22654ef48a4f981aaab21dfd0597c8d5e48de11315744ef5e5added/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667))
 
 ### 🛠️ OS Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
