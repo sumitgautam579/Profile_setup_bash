@@ -28,4 +28,4 @@ I work with DevOps, Cloud, Microservices, Containers, and everything in between.
 - 📫 Email: [sumitgautam579@gmail.com](mailto:sumitgautam579@gmail.com)
 - 🔗 LinkedIn: [Sumit Gautam](https://www.linkedin.com/in/sumitgautam95783)
 
-⚡ **Fun Fact:** I automate everything that can be automated!
+⚡ **Fun Fact:** I love to automate everything that can be automated!  
